@@ -1,5 +1,5 @@
 import React from 'react'
-import {Route, Link} from "react-router-dom" //i have to make sure to import route and link to my component
+import {Route, Link} from "react-router-dom" 
 
 const Info = ({ match }) => {
     return (
